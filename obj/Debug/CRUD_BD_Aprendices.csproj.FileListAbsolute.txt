@@ -1,0 +1,20 @@
+C:\Users\KELLY\Documents\VisualStudioProjects\CRUD_BD_Aprendices\CRUD_BD_Aprendices\bin\Debug\CRUD_BD_Aprendices.exe.config
+C:\Users\KELLY\Documents\VisualStudioProjects\CRUD_BD_Aprendices\CRUD_BD_Aprendices\bin\Debug\CRUD_BD_Aprendices.exe
+C:\Users\KELLY\Documents\VisualStudioProjects\CRUD_BD_Aprendices\CRUD_BD_Aprendices\bin\Debug\CRUD_BD_Aprendices.pdb
+C:\Users\KELLY\Documents\VisualStudioProjects\CRUD_BD_Aprendices\CRUD_BD_Aprendices\obj\Debug\CRUD_BD_Aprendices.csprojAssemblyReference.cache
+C:\Users\KELLY\Documents\VisualStudioProjects\CRUD_BD_Aprendices\CRUD_BD_Aprendices\obj\Debug\CRUD_BD_Aprendices.Properties.Resources.resources
+C:\Users\KELLY\Documents\VisualStudioProjects\CRUD_BD_Aprendices\CRUD_BD_Aprendices\obj\Debug\CRUD_BD_Aprendices.csproj.GenerateResource.cache
+C:\Users\KELLY\Documents\VisualStudioProjects\CRUD_BD_Aprendices\CRUD_BD_Aprendices\obj\Debug\CRUD_BD_Aprendices.csproj.CoreCompileInputs.cache
+C:\Users\KELLY\Documents\VisualStudioProjects\CRUD_BD_Aprendices\CRUD_BD_Aprendices\obj\Debug\CRUD_BD_Aprendices.exe
+C:\Users\KELLY\Documents\VisualStudioProjects\CRUD_BD_Aprendices\CRUD_BD_Aprendices\obj\Debug\CRUD_BD_Aprendices.pdb
+C:\Users\KELLY\Documents\VisualStudioProjects\CRUD_BD_Aprendices\CRUD_BD_Aprendices\obj\Debug\CRUD_BD_Aprendices.FrmPrincipal.resources
+F:\Proyectos Visual studio C#\VisualStudioProjects\CRUD_BD_Aprendices\CRUD_BD_Aprendices\bin\Debug\CRUD_BD_Aprendices.exe.config
+F:\Proyectos Visual studio C#\VisualStudioProjects\CRUD_BD_Aprendices\CRUD_BD_Aprendices\bin\Debug\CRUD_BD_Aprendices.exe
+F:\Proyectos Visual studio C#\VisualStudioProjects\CRUD_BD_Aprendices\CRUD_BD_Aprendices\bin\Debug\CRUD_BD_Aprendices.pdb
+F:\Proyectos Visual studio C#\VisualStudioProjects\CRUD_BD_Aprendices\CRUD_BD_Aprendices\obj\Debug\CRUD_BD_Aprendices.csprojAssemblyReference.cache
+F:\Proyectos Visual studio C#\VisualStudioProjects\CRUD_BD_Aprendices\CRUD_BD_Aprendices\obj\Debug\CRUD_BD_Aprendices.FrmPrincipal.resources
+F:\Proyectos Visual studio C#\VisualStudioProjects\CRUD_BD_Aprendices\CRUD_BD_Aprendices\obj\Debug\CRUD_BD_Aprendices.Properties.Resources.resources
+F:\Proyectos Visual studio C#\VisualStudioProjects\CRUD_BD_Aprendices\CRUD_BD_Aprendices\obj\Debug\CRUD_BD_Aprendices.csproj.GenerateResource.cache
+F:\Proyectos Visual studio C#\VisualStudioProjects\CRUD_BD_Aprendices\CRUD_BD_Aprendices\obj\Debug\CRUD_BD_Aprendices.csproj.CoreCompileInputs.cache
+F:\Proyectos Visual studio C#\VisualStudioProjects\CRUD_BD_Aprendices\CRUD_BD_Aprendices\obj\Debug\CRUD_BD_Aprendices.exe
+F:\Proyectos Visual studio C#\VisualStudioProjects\CRUD_BD_Aprendices\CRUD_BD_Aprendices\obj\Debug\CRUD_BD_Aprendices.pdb
